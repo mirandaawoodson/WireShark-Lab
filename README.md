@@ -26,6 +26,6 @@ In this lab, we practiced:
 - **GeoIP Database** for IP location mapping  
 
 ## 👩‍💻 Author
-- Your Name  
+- Miranda Woodson 
 - Cybersecurity Student | University of Texas at Arlington  
 - Date: September 2025

@@ -13,8 +13,6 @@ In this lab, we practiced:
 - **Extracting files** from captured traffic  
 - Mapping IP address locations with **GeoIP**  
 
-## 📂 Repository Structure
-
 
 ## 📊 Key Takeaways
 - Learned how to **capture, filter, and analyze packets** effectively.  
